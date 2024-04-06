@@ -37,6 +37,9 @@ const Topbar = () => {
             <LightModeOutlinedIcon />
           )}
         </IconButton>
+        {/* <IconButton onClick={() => console.log("Clicked")}>
+          <LightModeOutlinedIcon />
+        </IconButton> */}
         <IconButton>
           <NotificationsOutlinedIcon />
         </IconButton>
